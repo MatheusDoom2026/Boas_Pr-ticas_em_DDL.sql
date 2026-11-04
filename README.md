@@ -1,0 +1,1 @@
+# Boas_Pr-ticas_em_DDL.sql
